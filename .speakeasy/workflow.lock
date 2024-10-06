@@ -1,9 +1,9 @@
-speakeasyVersion: 1.405.6
+speakeasyVersion: 1.409.0
 sources:
     livepeer-studio-api:
         sourceNamespace: livepeer-studio-api
-        sourceRevisionDigest: sha256:9fee71db3ef7e86eb8f426b5146f7a8d09e02c2cf077f94db7386fc792fa41b5
-        sourceBlobDigest: sha256:de73770bfe91a1bffbc99283b9e7139392c49be34bfae97453cbd5efa2c69fe8
+        sourceRevisionDigest: sha256:42c1a3c0ed001d19ff7bbd61e2e2991f60a3597585a446d7202b9b0a2a6e9342
+        sourceBlobDigest: sha256:d25269a308c441057ade674c5f443b6bedb151d332ec3212cedef68b3411a345
         tags:
             - latest
             - main
